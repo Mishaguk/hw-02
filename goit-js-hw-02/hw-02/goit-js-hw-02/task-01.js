@@ -1,14 +1,9 @@
 'use strict'
-
-const logItems = function (array) {
-    const users = array;
-    let index;
-    index = users.indexOf('Kong')
-    
-    
-    for (let users = 0; users <= index; users ++)
+const logItems = function(array , value) {
+    for (i = 0; i < 50; i += 1){
+        logItems.includes[0]
+    }
         
-        console.log(users)
     
 };
 
